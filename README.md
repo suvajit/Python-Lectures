@@ -1,10 +1,8 @@
 
 # Python-Lectures  
 
+This Python-Lectures is part of [SCOUT](www.scoutlive.in) - Python Tutorial I course curriculum
 
-
-
-Note: [Andreas Ernst](http://users.monash.edu/~andrease/) has improvised and updated the repo to python 3, [Link](https://gitlab.erc.monash.edu.au/andrease/Python4Maths/tree/master)
 
 ## Introduction
 
