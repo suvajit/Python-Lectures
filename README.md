@@ -54,7 +54,7 @@ Launch ipython notebook from the folder which contains the notebooks. Open each 
     
 This will clear all the outputs and now you can understand each statement and learn interactively.
 
-## Table of contents
+## Course Modules
 
 
 
