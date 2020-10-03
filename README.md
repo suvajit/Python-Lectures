@@ -1,7 +1,7 @@
 
 # Python-Lectures  
 
-This Python-Lectures is part of [SCOUT](www.scoutlive.in) - Python Tutorial I course curriculum
+This Python-Lectures is part of [SCOUT](www.scoutlive.in) - Python Programming DS 101 course curriculum
 
 
 ## Introduction
