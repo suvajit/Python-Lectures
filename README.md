@@ -1,7 +1,7 @@
 
 # Python-Lectures  
 
-This Python-Lectures is part of [SCOUT](www.scoutlive.in) - Python Tutorial I course curriculum
+This Python-Lectures is part of [SCOUT](www.scoutlive.in) - Python Programming DS 101 course curriculum
 
 
 ## Introduction
@@ -54,7 +54,7 @@ Launch ipython notebook from the folder which contains the notebooks. Open each 
     
 This will clear all the outputs and now you can understand each statement and learn interactively.
 
-## Table of contents
+## Course Modules
 
 
 
