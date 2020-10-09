@@ -63,6 +63,8 @@ This will clear all the outputs and now you can understand each statement and le
 
 [01 - Variable, Operators and Built-in Functions](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/01.ipynb)
 
+   o [01 - Assignment] (http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/Assignment_1.ipynb)
+
 
 [02 - Print Statement, Precision and FieldWidth](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/02.ipynb)
 
