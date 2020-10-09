@@ -8,62 +8,64 @@ This Python-Lectures is part of [SCOUT](www.scoutlive.in) - Python Programming D
 
 Python is a modern, robust, high level programming language. It is very easy to pick up even if you are completely new to programming.
 
+We will be using [Jupyter Notebook](https://realpython.com/jupyter-notebook-introduction/) throughout this course for Course materials and course assignment submission. 
+
+
 ## Installation
+
 
 Mac OS X and Linux comes pre installed with python. Windows users can download python from https://www.python.org/downloads/ .
 
-To install IPython run,
+To install Jupyter run,
 
-    $ pip install ipython[all]
+    $ pip install jupyter[all]
     
 This will install all the necessary dependencies for the notebook, qtconsole, tests etc.
 
-### Installation from unofficial distributions
 
-Installing all the necessary libraries might prove troublesome. Anaconda and Canopy comes pre packaged with all the necessary python libraries and also IPython.
+
+### Installation from Anaconda
+
+Installing all the necessary libraries might prove troublesome for some.
+
+We recommend using Anaconda which comes pre packaged with all the necessary python libraries and also Jupyter Notebook.
+
 
 #### Anaconda
 
-Download Anaconda from https://www.continuum.io/downloads
+Download Anaconda from https://www.anaconda.com/products/individual
 
 Anaconda is completely free and includes more than 300 python packages. Both python 2.7 and 3.4 options are available.
 
-#### Canopy
 
-Download Canopy from https://store.enthought.com/downloads/#default
 
-Canopy has a premium version which offers 300+ python packages. But the free version works just fine. Canopy as of now supports only 2.7 but it comes with its own text editor and IPython environment.
-
-## Launching IPython Notebook
+## Launching Jupyter Notebook
 
 From the terminal
 
-    ipython notebook
+    jupyter notebook
 
-In Canopy and Anaconda, Open the respective terminals and execute the above.
+In Anaconda, Open the respective terminals and execute the above or Launch the Jupyter notebook from Anaconda Home page.
+
 
 ## How to learn from this resource?
 
-You can download the pdf copy from here : [Get Started with Python](https://github.com/suvajit/Python-Lectures/blob/master/Python.pdf)
 
-It is better to download all the ipython notebooks from this repository https://github.com/suvajit/Python-Lectures and learn it on the notebook itself rather than having to refer to a pdf.
+It is better to download all the Jupyter notebooks (*.ipynb files) from this repository https://github.com/suvajit/Python-Lectures and learn it on the local editable copy of the notebooks.
 
-Launch ipython notebook from the folder which contains the notebooks. Open each one of them
+Refer to this [Jupyter Tutorial](https://realpython.com/jupyter-notebook-introduction/) to get started on how to use your Juoyter notebook for writing your Python program exercises.
 
-    Cell > All Output > Clear
-    
-This will clear all the outputs and now you can understand each statement and learn interactively.
+
 
 ## Course Modules
 
+The course is structured into following 8 modules :
 
 
 [00 - Introduction and Installation](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/00.ipynb)
 
 
 [01 - Variable, Operators and Built-in Functions](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/01.ipynb)
-
-   o [01 - Assignment](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/Assignment_1.ipynb)
 
 
 [02 - Print Statement, Precision and FieldWidth](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/02.ipynb)
@@ -85,7 +87,20 @@ This will clear all the outputs and now you can understand each statement and le
 
 
 
-These are online read-only versions.
+
+## Assignments
+
+o [01 - Assignment after Module 01](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/Assignment_1.ipynb)
+
+
+
+
+## Notes
+
+- These are online read-only versions. Checkout the repository to your local system to modify the notebooks as your want.
+- If you are not conversant with Git commands, you can download the repository as ZIP package and tehn work on it.
+- It is recommended to create your own Github profile and then put up your solved exercises in your repo for future references and use
+
 
 ## License
 
