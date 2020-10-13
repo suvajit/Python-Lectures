@@ -93,7 +93,21 @@ The course is structured into following 8 modules :
 
 ## Practice Exercises
 
-o [01 - Assignment after Module 01](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/Assignment_1.ipynb)
+[01 - Exercise after Module 01](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/exercises/Exercise_1.ipynb)
+
+[02 - Exercise after Module 02](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/exercises/Exercise_2.ipynb)
+
+[03 - Exercise after Module 03(Part I)](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/exercises/Exercise_3_1.ipynb)
+
+[03 - Exercise after Module 03(Part II)](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/exercises/Exercise_3_2.ipynb)
+
+[04 - Exercise after Module 04](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/exercises/Exercise_4.ipynb)
+
+[05 - Exercise after Module 05](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/exercises/Exercise_5.ipynb)
+
+[06 - Exercise after Module 06](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/exercises/Exercise_6.ipynb)
+
+[07 - Exercise after Module 07](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/exercises/Exercise_7.ipynb)
 
 
 
