@@ -65,30 +65,33 @@ The course is structured into following 8 modules :
 [00 - Introduction and Installation](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/00.ipynb)
 
 
-[01 - Variable, Operators and Built-in Functions](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/01.ipynb)
+[01 - Variables, Operators, Built-in Functions, Input/Output](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/01.ipynb)
 
 
-[02 - Print Statement, Precision and FieldWidth](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/02.ipynb)
+[02 - Control Flow & Logic](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/02.ipynb)
 
 
-[03 - Lists, Tuples and Sets](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/03.ipynb)
+[03 - I Lists, Tuples, Sets](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/03_1.ipynb)
 
 
-[04 - Strings and Dictionaries](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/04.ipynb)
+[03 - II Strings, Dictionaries](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/03_2.ipynb)
 
 
-[05 - Control Flow Statements](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/05.ipynb)
+[04 - Functions](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/04.ipynb)
 
 
-[06 - Functions](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/06.ipynb)
+[05 - Standard Libraries, File read/write](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/05.ipynb)
 
 
-[07 - Classes](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/07.ipynb)
+[06 - OOPS & Classes](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/06.ipynb)
+
+
+[07 - Exceptions](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/07.ipynb)
 
 
 
 
-## Assignments
+## Practice Exercises
 
 o [01 - Assignment after Module 01](http://nbviewer.ipython.org/github/suvajit/Python-Lectures/blob/master/Assignment_1.ipynb)
 
